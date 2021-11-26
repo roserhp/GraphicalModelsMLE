@@ -1,6 +1,7 @@
 # GraphicalModelsMLE
 Macaulay2 package for computing the maximum likelihood estimates of Gaussian graphical models
 
+Authors: Carlos Amendola, Luis David Garcia Puente, Roser Homs Pons, Olga Kuznetsova, Harshit J Motwani, Elina Robeva, David Swinarski.
 
 Graphical Models MLE is a package for algebraic statistics that broadens the functionalities of GraphicalModels. It computes the maximum likelihood estimates (MLE) of the covariance matrix of Gaussian graphical models associated to loopless mixed graphs(LMG).
 
