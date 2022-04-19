@@ -42,7 +42,7 @@ newPackage(
 	   HomePage=>"http://faculty.fordham.edu/dswinarski"}
 	  },
      Headline => "maximum likelihood estimates for graphical statistical models",
-     --Keywords => {"Algebraic Statistics"},
+     Keywords => {"Algebraic Statistics"},
      DebuggingMode => true,
      PackageExports => {"GraphicalModels","Graphs","EigenSolver","NumericalAlgebraicGeometry","StatGraphs"}
      )
