@@ -10,6 +10,6 @@ The main features of the package are the computation of the sampleCovarianceMatr
 For more details on the type of graphical models that are accepted see gaussianRing. In particular, for further information about LMG with undirected, directed and bidirected edges, check partitionLMG.
 
 
-This repository contains version 1.0 of the package, which is not yet available in the current Macaulay2 distribution. Since distribution 1.17, version 0.3 of GraphicalModelsMLE is available and its documentation can be found here:  
+This repository contains version 1.0 of the package, which will be available in the Macaulay2 distribution version 1.20 (May 2022). Since distribution 1.17, version 0.3 of GraphicalModelsMLE is available and its documentation can be found here:  
 
 https://faculty.math.illinois.edu/Macaulay2/doc/Macaulay2-1.18/share/doc/Macaulay2/GraphicalModelsMLE/html/index.html

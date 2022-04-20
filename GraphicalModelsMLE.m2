@@ -10,16 +10,16 @@ the License, or any later version.
 *-
 newPackage(
      "GraphicalModelsMLE",
-     Version => "0.4",
-     Date => "November 26, 2021",
+     Version => "1.0",
+     Date => "April 19, 2022",
      Authors => {
 	  {Name=> "Carlos Amendola",
-	   Email=> "carlos.amendola@tum.de",
+	   Email=> "carlos.amendola@mis.mpg.de",
 	   HomePage=>"http://www.carlos-amendola.com/"},
 
 	  {Name => "Luis David Garcia Puente",
-	   Email => "lgarcia@shsu.edu",
-	   HomePage => "http://www.shsu.edu/~ldg005"},
+	   Email => "lgarciapuente@coloradocollege.edu",
+	   HomePage => "https://luisgarciapuente.github.io"},
 
           {Name=> "Roser Homs Pons",
 	   Email=> "roser.homs@tum.de",
@@ -42,7 +42,7 @@ newPackage(
 	   HomePage=>"http://faculty.fordham.edu/dswinarski"}
 	  },
      Headline => "maximum likelihood estimates for graphical statistical models",
-     --Keywords => {"Algebraic Statistics"},
+     Keywords => {"Algebraic Statistics"},
      DebuggingMode => true,
      PackageExports => {"GraphicalModels","Graphs","EigenSolver","NumericalAlgebraicGeometry","StatGraphs"}
      )
